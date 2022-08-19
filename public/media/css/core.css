@@ -1,0 +1,172 @@
+.card-login {
+    box-shadow: 0 4px 20px 0#59c7b1, 0 7px 10px -5px #64c7;
+}
+
+.card .card-header-rose .card-icon,
+.card .card-header-rose .card-text,
+.card .card-header-rose:not(.card-header-icon):not(.card-header-text) {
+    background: linear-gradient(60deg, #60cab3, #67ceb9);
+    box-shadow: 0 4px 20px 0#ffffff, 0 7px 10px -5px #ffffff;
+}
+
+.login-page {
+    background-color: #fff;
+    background-size: cover;
+    background-position: top center;
+}
+
+.title-name {
+    padding-left: 24px;
+}
+
+.product_create .modal-dialog {
+    margin-top: 10px;
+}
+
+.info .icon-savings {
+    color: blueviolet;
+}
+
+.info .icon-account_balance {
+    color: mediumvioletred;
+}
+
+.info .icon-payments {
+    color: powderblue;
+}
+
+.currentlyinstock {
+    text-align: right;
+    padding-top: 8px;
+}
+
+.text-main {
+    color: #67ceb9;
+}
+
+.btn.btn-main {
+    color: #fff;
+    background-color: #67ceb9;
+    border-color: #67ceb9;
+}
+
+.modal .modal-dialog.modal-cproduct .info-horizontal {
+    padding: 0 0 2px;
+    margin-bottom: -12px;
+}
+
+button.btn.btn-stock {
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 0px 13px;
+    color: #fff;
+    background-color: #64ccb6;
+    padding: 0px 13px;
+}
+
+button.btn.btn-initalpayment {
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 0px 13px;
+    color: #64ccb6;
+    background-color: #4caf5000;
+    padding: 0px 13px;
+}
+button.btn.btn-debit {
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 0px 13px;
+    color: #cc6464;
+    background-color: #4caf5000;
+    padding: 0px 13px;
+}
+
+button.btn.btn-success.col.btn-sm {
+    border: 2px solid;
+    border-radius: 15px;
+    color: #64ccb6;
+    background-color: #4caf5000;
+}
+
+input.form-control.currentStock {
+    border: 1px;
+    background-color: #64ccb6;
+    color: #fff;
+    text-align: center;
+    background-image: none;
+}
+
+input.form-control.figure-cost {
+    border: 1px solid;
+}
+.btn.btn-paid {
+    color: #fff;
+    background-color: #30bacc;
+    border-color: #30bacc;
+    box-shadow: 0 2px 2px 0 rgb(0 188 212 / 14%), 0 3px 1px -2px rgb(0 188 212 / 20%), 0 1px 5px 0 rgb(0 188 212 / 12%);
+}
+.btn.btn-unpaid {
+    color: #fff;
+    background-color: #968f97;
+    border-color: #968f97;
+    box-shadow: 0 2px 2px 0 #f7f7f700, 0 3px 1px -2px #f7f7f700, 0 1px 5px 0 #f7f7f700;
+}
+.nav-pills:not(.flex-column) .nav-item+.nav-item:not(:first-child) {
+     margin-left: 0px; 
+}
+.btn.btn-unpaid:hover {
+	color: #fff;
+	background-color: #64ccb6
+}
+.nav-tabs .nav-item .nav-link.active {
+    background-color: #64ccb6;
+    color: #fff !important;
+    transition: background-color .3s .2s;
+}
+.card.bg-info, .card .card-header-info .card-icon, .card .card-header-info .card-text, .card .card-header-info:not(.card-header-icon):not(.card-header-text), .card.card-rotate.bg-info .back, .card.card-rotate.bg-info .front{
+    background: linear-gradient(60deg, #fff, #fff);
+}
+.settings {
+    cursor: pointer;
+    color: #0a0a0a;
+   
+}
+.entryDateClass{
+    padding-right: 0px;
+    top: 7px;
+    width:auto;
+}
+
+.paymentAmountClass{
+    top: 7px;
+    width:auto;
+}
+.paidButtonClasss{
+   padding-left:0.5rem;
+    width:auto;
+
+}
+.settingButtonClass{
+    top:7px;
+    padding-left:0.5rem;
+    width:auto;
+}
+#singleEntry-form .col-md-4{
+    padding-right:inherit;
+}
+.sidebar[data-color=rose] li.active>a {
+    background-color: #53ddbf;
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(233 30 99 / 40%);
+}
+.inner.show {
+    background-color: white;
+}
+.white-background{
+    background-color: white;
+}
+.payment_date_style {
+    min-width: 90px;
+}
+.calculatedStock{
+    min-width: 135px; 
+}

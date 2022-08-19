@@ -1,0 +1,332 @@
+/*!
+Template :	XIOM @by Softnio
+Preset   :	Default
+Version	 :	1.0.0
+Updated	 :	18.08.2018
+*/
+
+.navbar-toggler {
+	background-color: #8b9aff
+}
+
+.header-area-s2 .navbar-toggler {
+	background-color: #3742fa
+}
+
+.header-area-s3 .navbar-toggler {
+	background-color: #6580CE
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #2980b9
+}
+
+.header-area-s2 .navbar-light .navbar-nav .nav-link:hover {
+	color: #3742fa
+}
+
+.header-area-s3 .navbar-light .navbar-nav .nav-link:hover {
+	color: #fff200
+}
+
+.dropdown:hover .nav-link,
+.dropdown:focus .nav-link {
+	color: #2980b9
+}
+
+.header-area-s2 .dropdown:hover .nav-link,
+.header-area-s2 .dropdown:focus .nav-link {
+	color: #3742fa
+}
+
+.header-area-s3 .dropdown:hover .nav-link,
+.header-area-s3 .dropdown:focus .nav-link {
+	color: #fff200
+}
+
+.header-area-s2 .site-header.has-fixed .navbar {
+	background-color: #fff;
+}
+
+.header-area-s3 .site-header.has-fixed .navbar {
+	background-color: #fff;
+}
+
+.btn-menu {
+	background-color: #C8CFE7;
+	color: #3d486a
+}
+
+.btn-menu:hover {
+	background-color: #FF5E8D
+}
+
+.btn-menu-2 {
+	border: 2px solid #fff;
+	background-color: transparent;
+	color: #fff
+}
+
+.btn-menu-2:hover {
+	background-color: transparent;
+	border: 2px solid #FF5E8D
+}
+
+.btn-menu-3 {
+	background-color: rgba(255, 255, 255, 0.1);
+	color: #fff
+}
+
+.btn-menu-3 i {
+	color: #f7949c
+}
+
+.btn-menu-3:hover {
+	background-color: #C8CFE7;
+	color: #3d486a
+}
+
+.btn-menu-3:hover i {
+	color: #3d486a
+}
+
+.btn-lg {
+	color: #fff;
+	background-color: #FF5E8D;
+	box-shadow: 0px 25px 35px rgba(255, 94, 141, 0.3)
+}
+
+.btn-lg:hover {
+	background-color: #7c98e7;
+	box-shadow: 0px 25px 35px rgba(124, 152, 231, 0.3)
+}
+
+.btn-s2:hover {
+	box-shadow: none;
+	background-color: #fff;
+	color: #FF5E8D
+}
+
+.btn-lg-s3 {
+	background: linear-gradient(to right, #f5848f, #fdb8ab)
+}
+
+.btn-lg-s3 span {
+	color: #fff
+}
+
+.btn-lg-s3:after {
+	background: linear-gradient(to right, #fdb8ab, #f5848f)
+}
+
+.btn-link {
+	color: #FF5E8D;
+	border-bottom-color: #FF5E8D
+}
+
+.btn-link:focus {
+	color: #FF5E8D
+}
+
+.btn-link:hover {
+	color: #7c98e7;
+	border-bottom: 1px solid #7c98e7
+}
+
+.sec-heading h2::before {
+	background-color: #f9dfea
+}
+
+.input-line {
+	border-bottom: 1px solid #FF5E8D
+}
+
+.input-icon-s3 i {
+	color: #4a5b7a
+}
+
+.team-photo img {
+	border: 8px solid #ccd8ff
+}
+
+.pricing-box .pricing-title {
+	border-bottom: 1px solid #e6edf7
+}
+
+.active-box {
+	background-color: #7c98e7
+}
+
+.active-box .pricing-title {
+	border-bottom: 1px solid #e6edf7
+}
+
+.active-box .btn-price {
+	background-color: #FF5E8D;
+	color: #fff
+}
+
+.active-box .btn-price:hover {
+	box-shadow: none
+}
+
+.active-box-s2 {
+	background: linear-gradient(to right, #674ece, #b476e9)
+}
+
+.card-header .btn-link {
+	color: #4a5b7a
+}
+
+.card-header .btn-link:hover {
+	border-bottom: none
+}
+
+.card-body {
+	border-top-color: #e7e9ee
+}
+
+.up-icon {
+	background-color: #FF5E8D;
+	box-shadow: 0px 15px 40px 0px rgba(255, 21, 89, 0.4)
+}
+
+.up-icon:hover {
+	background-color: #7c98e7;
+	box-shadow: 0px 15px 40px 0px rgba(124, 152, 231, 0.3)
+}
+
+.social-icon {
+	background-color: #C8CFE7
+}
+
+.social-icon a {
+	color: #424C6D
+}
+
+.footer-widget-s3 .social-icon {
+	background-color: #4a5b7a
+}
+
+.footer-text {
+	border-top: 1px solid #DADEE3
+}
+
+.header-area::before {
+	background: url(../images/shape-a.svg), linear-gradient(to bottom, #cfd6ff, #e1e7ff, #f8fbff);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 100%
+}
+
+.header-area-s2::before {
+	background: url(../images/shape-e.svg), linear-gradient(to bottom, #7585ff, #8a98ff, #b1bbff);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 100% 100%
+}
+
+.config-shape svg {
+	background: linear-gradient(to right, #e3e8ff, #f2f6ff)
+}
+
+.feature-config::before {
+	background: none
+}
+
+.feature::before {
+	background: url(../images/shape-c.svg), linear-gradient(to bottom, #e3e8ff, #f2f6ff, #f8fbff);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.feature-s2::before {
+	background: url(../images/shape-g.svg), linear-gradient(to bottom, #f1f2ff, #fafbff, #fff);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.team::before {
+	background: url(../images/shape-c.svg), linear-gradient(to bottom, #e3e8ff, #f2f6ff, #f8fbff);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 50% 0
+}
+
+.footer-area::before {
+	background: url(../images/shape-d.svg), linear-gradient(to bottom, #e3e8ff, #f2f6ff);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.footer-area-s2::before {
+	background: url(../images/shape-h.svg), linear-gradient(to bottom, #e3e8ff, #f2f6ff);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.tools-s3::before {
+	background: #1a0c52
+}
+
+.why-xiom-s4::before {
+	background: #1a0c52
+}
+
+.quick-access-icon {
+	background: linear-gradient(to right, #674ece, #b476e9)
+}
+
+.tools-icon-s3 {
+	background: linear-gradient(to right, #674ece, #b476e9)
+}
+
+.testimonial-client-s3 {
+	background: linear-gradient(to right, #453bc1 0%, #d385f4 20%, #d385f4 100%)
+}
+
+.testimonial-text-s3 span {
+	color: #3931ec
+}
+
+.header-area-s3::before {
+	background: url(../images/shape-i.svg), linear-gradient(to right, #d184f3 0%, #3b36be 100%);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 100% 100%
+}
+
+.overlay-bar {
+	background: linear-gradient(to right, rgba(202, 88, 252, 0.7) 0%, rgba(59, 54, 190, 0.7) 100%)
+}
+
+.cta-s2::before {
+	background: url(../images/shape-j.svg), linear-gradient(to right, #3b36be 0%, #d184f3 100%);
+	background-size: 100%;
+	background-repeat: no-repeat
+}
+
+.subscriber-s3::before {
+	background: url(../images/shape-j.svg), linear-gradient(to right, #3b36be 0%, #d184f3 100%);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.overlay-bar-1 {
+	background: linear-gradient(to right, rgba(59, 54, 190, 0.7) 0%, rgba(209, 132, 243, 0.7) 100%)
+}
+
+.login-s2::before {
+	background: url(../images/shape-i.svg), linear-gradient(to right, #d184f3 0%, #3b36be 100%);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 100% 100%
+}
+
+.pages-icon i {
+	color: #21caff
+}
+
+.color-icon i {
+	color: #c980ff
+}
